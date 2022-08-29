@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Nawab
-- 👀 I’m interested in Basketball, Cooking, Chess, and Coding
+- 👀 I’m interested in Basketball, Cooking, Chess, Poetry and Coding
 - 🌱 I’m currently learning Javacript and Java
 - 💞️ I’m looking to collaborate on any projects that will help me increase my knowledge in any coding languages
 - 📫 You can reach me on, Alinawab9830@gmail.com
