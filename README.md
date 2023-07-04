@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Nawab
-- 👀 I’m interested in Basketball, Cooking, Chess, Poetry, Calligraphy and Coding
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in Basketball, Cooking, Chess, Poetry, and Calligraphy
+- 🌱 I’m currently learning MVC
 - 💞️ I’m looking to collaborate on any projects that will help me increase my knowledge in any coding languages
 - 📫 You can reach me on, Alinawab9830@gmail.com
