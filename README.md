@@ -53,7 +53,7 @@ I'm an avid open-source enthusiast and believe in giving back to the developer c
 I'm always open to exciting new opportunities, collaborations, and discussions. If you'd like to connect, feel free to reach out via:
 
 - Email: Alinawab9830@gmail.com
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/muzzammil-nawab-676b78223/)
-- Portfolio: [Portfolio](https://yaboiali.github.io/Portfolio_Website/)
+- [Linkedin](https://www.linkedin.com/in/muzzammil-nawab-676b78223/)
+- [Portfolio](https://yaboiali.github.io/Portfolio_Website/)
 
 Thank you for visiting my GitHub profile. I'm eager to keep growing as a software engineer and contributing to meaningful projects. Let's build something remarkable together! 🚀
