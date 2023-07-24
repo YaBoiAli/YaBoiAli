@@ -1,6 +1,6 @@
 # Software Engineer - Muzzammil Nawab
 
-![Software Engineer](https://img.shields.io/badge/Software%20Engineer-%20Your%20Name-%230076D6)
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-%20Muzzammil%20Nawab-%230076D6)
 
 Welcome to my GitHub profile! I'm Muzzammil Nawab, a passionate and driven software engineer with a love for crafting efficient and innovative solutions. This README will provide you with an overview of my skills, projects, and contributions in the software development realm.
 
