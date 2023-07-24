@@ -19,25 +19,26 @@ I am a highly motivated and enthusiastic entry-level software engineer with a st
 
 ## Projects
 
-### Project 1: [Anime Forum]
+### Project 1: Anime Forum
 
 [This project facilitates user registration and comment creation, enabling participants to engage in substantive discussions about their preferred content.]
 
 - Repository: [Link to the GitHub repository](https://github.com/Afrozez/anime-forum)
 - Site: [Link to site](https://dry-fjord-40958-6d6119c1d47d.herokuapp.com/#)
 
-### Project 2: [Weather Application]
+### Project 2: Weather Application
 
 [This is a simple weather application built with JavaScript that retrieves and displays the weather forecast for a given city.]
 
 - Repository: [Link to the GitHub repository](https://github.com/YaBoiAli/Weather-Application)
 - Site: [Link to site](https://yaboiali.github.io/Weather-Application/)
 - 
-### Project 3: [WikiRythem]
+### Project 3: WikiRythem
 
-_[Brief project description and its significance]_
+A simple site to look up any artist and get information on their top 10 Albums, with their background
 
 - Repository: [Link to the GitHub repository](https://github.com/Kimberlyc1904/WikiRythm)
+- Site: [Link to Site](https://yaboiali.github.io/WikiRythm/)
 
 ## Contributions
 
