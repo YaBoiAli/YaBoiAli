@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Muzzammil Nawab, a passionate and driven softw
 
 ## About Me
 
-I'm a highly motivated software engineer with [X] years of experience in developing web applications, mobile apps, and [mention other relevant domains]. I am a firm believer in the power of technology to transform lives and create a positive impact. My journey as a software engineer has been marked by continuous learning, embracing new challenges, and collaborating with talented teams to deliver exceptional results.
+I am a highly motivated and enthusiastic entry-level software engineer with a strong background in customer service and sales. With a passion for technology and problem-solving, I am dedicated to developing innovative software solutions to address complex challenges. I possess a solid foundation in various programming languages such as Java, Python, React.js, Node.js, C++, JavaScript ES6+, HTML, CSS3, Tailwind, Bootstrap, JQuery, Express.js, MySQL, Handlebars, ORM, and MVC. As for Automation, I have knowledge with Python and Javascript with Selenium, and Java with Cucumber. Also have worked with C++ and C# just for fun little project.
 
 ## Skills
 
