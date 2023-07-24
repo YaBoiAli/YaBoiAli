@@ -10,11 +10,12 @@ I am a highly motivated and enthusiastic entry-level software engineer with a st
 
 ## Skills
 
-- **Programming Languages**: [JavaScript ES6+, HTML5, CSS3, React, jQuery, Bootstrap, Handlebars, Node.js, Express]
+- **Programming Languages**: [JavaScript ES6+, HTML5, CSS3, React, jQuery, Bootstrap, Tailwind, Handlebars, Node.js, Express.js, REACT.js, ORM]
 - **Mobile App Development**: [SwiftUI, Android Studio]
 - **Database Management**: [mySQL, NoSQL]
 - **Version Control**: [Git, GitHub]
 - **Testing and Debugging**: [Selenium, Apache Maven]
+- **Also worked with**: [Java, Python, C++, and C#]
 
 ## Projects
 
