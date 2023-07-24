@@ -23,29 +23,28 @@ I'm a highly motivated software engineer with [X] years of experience in develop
 [This project facilitates user registration and comment creation, enabling participants to engage in substantive discussions about their preferred content.]
 
 - Repository: [Link to the GitHub repository](https://github.com/Afrozez/anime-forum)]
-- Site: [(https://dry-fjord-40958-6d6119c1d47d.herokuapp.com/#)]
+- Site: [Link to site](https://dry-fjord-40958-6d6119c1d47d.herokuapp.com/#)]
 
 ### Project 2: [Weather Application]
 
 [This is a simple weather application built with JavaScript that retrieves and displays the weather forecast for a given city.]
 
-- Repository: [[Link to the GitHub repository]](https://github.com/YaBoiAli/Weather-Application)]
-- Site: [[Link to Site]](https://yaboiali.github.io/Weather-Application/)]
+- Repository: [Link to the GitHub repository](https://github.com/YaBoiAli/Weather-Application)]
+- Site: [Link to site](https://yaboiali.github.io/Weather-Application/)]
 
-### Project 3: [Project Name]
+### Project 3: [WikiRythem]
 
 _[Brief project description and its significance]_
 
-- Repository: [Link to the GitHub repository]
-- Demo: [If applicable, provide a link to a live demo]
+- Repository: [Link to the GitHub repository](https://github.com/Kimberlyc1904/WikiRythm)]
 
 ## Contributions
 
 I'm an avid open-source enthusiast and believe in giving back to the developer community. Some of my notable contributions include:
 
-- [Contribution 1: Project Name](Link to the contribution)
-- [Contribution 2: Project Name](Link to the contribution)
-- [Contribution 3: Project Name](Link to the contribution)
+- [Contribution 1: Anime Forum](https://github.com/Afrozez/anime-forum/graphs/contributors)
+- [Contribution 2: Project Name]((https://github.com/Kimberlyc1904/WikiRythm/graphs/contributors)
+
 
 ## Get in Touch
 
