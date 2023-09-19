@@ -45,7 +45,7 @@ A simple site to look up any artist and get information on their top 10 Albums, 
 I'm an avid open-source enthusiast and believe in giving back to the developer community. Some of my notable contributions include:
 
 - [Contribution 1: Anime Forum](https://github.com/Afrozez/anime-forum/graphs/contributors)
-- [Contribution 2: Project Name](https://github.com/Kimberlyc1904/WikiRythm/graphs/contributors)
+- [Contribution 2: WikiRythem](https://github.com/Kimberlyc1904/WikiRythm/graphs/contributors)
 
 
 ## Get in Touch
