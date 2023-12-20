@@ -2,19 +2,19 @@
 
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-%20Muzzammil%20Nawab-%230076D6)
 
-👋 Welcome to my GitHub profile! I'm Muzzammil Nawab, a passionate and driven software engineer with a love for crafting efficient and innovative solutions. 🚀
+👋 Welcome to my GitHub profile! I'm Muzzammil Nawab, a passionate and driven software engineer who loves crafting efficient and innovative solutions. 🚀
 
 ## About Me
 
-I am a highly motivated and enthusiastic entry-level software engineer with a strong background in customer service and sales. With a passion for technology and problem-solving, I am dedicated to developing innovative software solutions to address complex challenges. I possess a solid foundation in various programming languages such as Java, Python, React.js, Node.js, C++, JavaScript ES6+, HTML, CSS3, Tailwind, Bootstrap, JQuery, Express.js, MySQL, Handlebars, ORM, and MVC. As for Automation, I have knowledge with Python and Javascript with Selenium, and Java with Cucumber. Also have worked with C++ and C# just for fun little project.
+I am a highly motivated and enthusiastic entry-level software engineer with a vital customer service and sales background. I am passionate about technology and problem-solving and am dedicated to developing innovative software solutions to address complex challenges. I possess a solid foundation in various programming languages such as Java, Python, React.js, Node.js, C++, JavaScript ES6+, HTML, CSS3, Tailwind, Bootstrap, JQuery, Express.js, MySQL, Handlebars, ORM, and MVC. As for Automation, I have knowledge of Python and Javascript with Selenium and Java with Cucumber. I have also worked with C++ and C# for fun little projects.
 
 ## Skills
 
 - **Programming Languages**: [JavaScript ES6+, HTML5, CSS3, React, jQuery, Bootstrap, Tailwind, Handlebars, Node.js, Express.js, REACT.js, ORM]
-- **Mobile App Development**: [SwiftUI, Android Studio]
-- **Database Management**: [mySQL, NoSQL]
+- **Mobile App Development**: [SwiftUI, Android Studio, React Native]
+- **Database Management**: [mySQL, NoSQL, SQL, MongoDB, GraphQL]
 - **Version Control**: [Git, GitHub]
-- **Testing and Debugging**: [Selenium, Apache Maven]
+- **Testing and Debugging**: [Selenium, Apache Maven, Insomnia, Apollo]
 - **Also worked with**: [Java, Python, C++, and C#]
 
 ## Projects
