@@ -44,7 +44,7 @@ A simple site to look up any artist and get information on their top 10 Albums, 
 
 I'm an avid open-source enthusiast and believe in giving back to the developer community. Some of my notable contributions include:
 
-- [Contribution 1: Anime Forum](https://github.com/YaBoiAli/StudyBuddy/graphs/contributors)
+- [Contribution 1: Study Buddy](https://github.com/YaBoiAli/StudyBuddy/graphs/contributors)
 - [Contribution 2: WikiRythem](https://github.com/Kimberlyc1904/WikiRythm/graphs/contributors)
 
 
@@ -52,8 +52,8 @@ I'm an avid open-source enthusiast and believe in giving back to the developer c
 
 I'm always open to exciting new opportunities, collaborations, and discussions. If you'd like to connect, feel free to reach out via:
 
-- Email: Alinawab9830@gmail.com
+- [Email](Alinawab9830@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/muzzammil-nawab-676b78223/)
 - [Portfolio](https://yaboiali.github.io/Portfolio_Website/)
 
-Thank you for visiting my GitHub profile. I'm eager to keep growing as a software engineer and contributing to meaningful projects. Let's build something remarkable together! 🚀
+Thank you for visiting my GitHub profile. I'm eager to grow as a software engineer and contribute to meaningful projects. Let's build something remarkable together! 🚀
