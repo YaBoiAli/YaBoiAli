@@ -19,12 +19,12 @@ I am a highly motivated and enthusiastic entry-level software engineer with a vi
 
 ## Projects
 
-### Project 1: Anime Forum
+### Project 1: Study Buddy
 
-[This project facilitates user registration and comment creation, enabling participants to engage in substantive discussions about their preferred content.]
+[This full-stack web app allows users to create and share flashcards. It was created for people to come and share study notes. It utilized MongoDB with GraphQL and Apollo to handle the database. It also uses JSON web tokens and bcrypt to manage user logins.]
 
-- Repository: [Link to the GitHub repository](https://github.com/Afrozez/anime-forum)
-- Site: [Link to site](https://dry-fjord-40958-6d6119c1d47d.herokuapp.com/#)
+- Repository: [Link to the GitHub repository](https://github.com/YaBoiAli/StudyBuddy)
+- Site: [Link to site](https://study-buddy-p3-0d14fa2a37d6.herokuapp.com/)
 
 ### Project 2: Weather Application
 
@@ -44,7 +44,7 @@ A simple site to look up any artist and get information on their top 10 Albums, 
 
 I'm an avid open-source enthusiast and believe in giving back to the developer community. Some of my notable contributions include:
 
-- [Contribution 1: Anime Forum](https://github.com/Afrozez/anime-forum/graphs/contributors)
+- [Contribution 1: Anime Forum](https://github.com/YaBoiAli/StudyBuddy/graphs/contributors)
 - [Contribution 2: WikiRythem](https://github.com/Kimberlyc1904/WikiRythm/graphs/contributors)
 
 
