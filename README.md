@@ -54,6 +54,6 @@ I'm always open to exciting new opportunities, collaborations, and discussions. 
 
 - [Email](Alinawab9830@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/muzzammil-nawab-676b78223/)
-- [Portfolio]([https://yaboiali.github.io/Portfolio_Website/](https://shielded-dawn-28045-57efaee96b4c.herokuapp.com/))
+- [Portfolio]([https://shielded-dawn-28045-57efaee96b4c.herokuapp.com/])
 
 Thank you for visiting my GitHub profile. I'm eager to grow as a software engineer and contribute to meaningful projects. Let's build something remarkable together! 🚀
