@@ -32,7 +32,7 @@ I am a highly motivated and enthusiastic entry-level software engineer with a vi
 
 - Repository: [Link to the GitHub repository](https://github.com/YaBoiAli/Weather-Application)
 - Site: [Link to site](https://yaboiali.github.io/Weather-Application/)
-- 
+  
 ### Project 3: WikiRythem
 
 A simple site to look up any artist and get information on their top 10 Albums, with their background
