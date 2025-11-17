@@ -23,8 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaboiali&show_icons=true&locale=en" alt="yaboiali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaboiali&" alt="yaboiali" /></p>
-
 - [Email](Alinawab9830@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/muzzammil-nawab-676b78223/)
 - [Portfolio](https://shielded-dawn-28045-57efaee96b4c.herokuapp.com/)
